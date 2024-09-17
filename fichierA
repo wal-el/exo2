@@ -4,4 +4,6 @@ t'y es un bizarre toi
 t'as du miel ?
 et nan et nan 
 t'as vu
-Ceci est une modification locale
+<<<<<<< HEAD
+Ceci est une modification distante 
+>>>>>>> 806112b8adf475b7688d3310867302d9729f61d3
